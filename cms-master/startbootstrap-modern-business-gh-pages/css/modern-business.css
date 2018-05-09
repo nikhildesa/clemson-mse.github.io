@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", Helvetica, sans-serif;
+}
+body, input, select, textarea {
+  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-size: 12pt;
+}
+
+p {
+  font-size: 14pt;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.navbar-customcolor {
+  color: #522D80;
+  background-color: #522D80;
+}
+
+.navbar-customtext {
+  color: #FFFFFF !important;
+  letter-spacing: 0.10em;
+}
+
+.customtocenter {
+ margin:0 auto;
+ display: inline;
+ }
+
+ .hr-customcolor {
+   border-color: #FFFFFF !important;
+ }
+
+ .footer-customcolor {
+   color: #522D80;
+   background-color: #522D80;
+ }
